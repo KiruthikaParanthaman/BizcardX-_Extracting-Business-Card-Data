@@ -10,3 +10,12 @@ Bizcardx Application is an Business Card Reader which extracts text details from
 
 **Tools Used:**
 Python - pandas, cv2, easyocr, Sqlalchemy, Pathlib , Numpy, Mysql database,  Streamlit
+
+**End Product :**
+![app_scrnshot](https://github.com/KiruthikaParanthaman/BizcardX-_Extracting-Business-Card-Data/assets/141828622/0cf3205c-bba0-475a-aaf2-457275871e23)
+
+**Home Menu**
+In the home menu users will be able to upload images.After image upload, extracted details will be dispalyed on the right side of screen along with processed image with bounding box around text and original image below it in left side of the screen. The users will also be able to modify the details if any and click save to save the extacted details along with image path in Mysqldb
+
+**
+
